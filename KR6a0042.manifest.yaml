@@ -31,9 +31,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6a0042_000.yaml, hash: 'sha256:8489c37b7f884bc5cb593db86dfdb4af7a80467120ccbfef1d329b5f165c37fe'}
-  - {seq: 1, filename: KR6a0042_001.yaml, hash: 'sha256:452940de1411eda720888eeed2b397b127774f99797a2d65bffb85d4993b0683'}
+  - {seq: 1, filename: KR6a0042_001.yaml, hash: 'sha256:3ee12a42a1165eb6d5dd3b8bffbc05ac1a82fd3299e999065614ea16992c8b91'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6a0042_001.markers.yaml, hash: 'sha256:15374caa92c9dbe4785f696dcc0a7037999aee77b0d8471e2ede55a91019f6ef'}
+  - {seq: 0, role: markers, filename: assets/KR6a0042_000.markers.yaml, hash: 'sha256:5fefda5ef49dabeac237355ebc23d2b336c4098b9536a8303680853681b67ee2'}
+  - {seq: 1, role: markers, filename: assets/KR6a0042_001.markers.yaml, hash: 'sha256:919a63b82b3abdfb1a505a2c10973aa17b4bb7dfdc9fdca6a199fd4e29e09cae'}
 table_of_contents:
 - ref:
     seq: 1
@@ -45,7 +46,4 @@ table_of_contents:
   label: 佛說鐵城泥犁經
   type: juan
   level: 1
-hash: sha256:38be7e91f3f063e8e008e22a62fd7ee6b72a4436221270a770114e3e924c27f1
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:5dc4cfecf8680d596dbdcf2c5d06f98cd6d0e79c7b5cf5e24b42d9620368381d
