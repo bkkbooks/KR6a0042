@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6a0042/v1
 canonical_location: https://kanripo.org/bkk/KR6a0042/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 鐵城泥犁經
   identifiers:
@@ -31,10 +31,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6a0042_000.yaml, hash: 'sha256:8489c37b7f884bc5cb593db86dfdb4af7a80467120ccbfef1d329b5f165c37fe'}
-  - {seq: 1, filename: KR6a0042_001.yaml, hash: 'sha256:3ee12a42a1165eb6d5dd3b8bffbc05ac1a82fd3299e999065614ea16992c8b91'}
+  - {seq: 1, filename: KR6a0042_001.yaml, hash: 'sha256:d9d9795ce5fde7bfd66c1a1772205dfd6d9b46c208d75cdd365f123b182795f1'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6a0042_000.markers.yaml, hash: 'sha256:5fefda5ef49dabeac237355ebc23d2b336c4098b9536a8303680853681b67ee2'}
-  - {seq: 1, role: markers, filename: assets/KR6a0042_001.markers.yaml, hash: 'sha256:919a63b82b3abdfb1a505a2c10973aa17b4bb7dfdc9fdca6a199fd4e29e09cae'}
+  - {seq: 1, role: markers, filename: assets/KR6a0042_001.markers.yaml, hash: 'sha256:33164ec13672265dd65b50fe0145115dc03abb62eada4724df0456ee646c9e44'}
 table_of_contents:
 - ref:
     seq: 1
@@ -46,4 +46,7 @@ table_of_contents:
   label: 佛說鐵城泥犁經
   type: juan
   level: 1
-hash: sha256:5dc4cfecf8680d596dbdcf2c5d06f98cd6d0e79c7b5cf5e24b42d9620368381d
+hash: sha256:a78be8bbf93fce3dd0c91a3dc610131993519062b616147852724e64579a436d
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
